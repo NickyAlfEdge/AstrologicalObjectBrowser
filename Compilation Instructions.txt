@@ -1,0 +1,5 @@
+Compile:
+javac -classpath . AOQueryRunner/GUI/Run.java
+
+Run:
+java -classpath . AOQueryRunner/GUI/Run

@@ -8,5 +8,6 @@ The overall objectives of the module were to create a piece of software that cou
 
 - A comprehensive class diagram can be found here: 
 
-<div style="width: 960px; height: 720px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:960px; height:720px" src="https://lucid.app/documents/embeddedchart/3ea6d3f9-2e20-46b2-af27-4fddbe9cb01f" id="ptKRu7PkgH2h"></iframe></div>
+<img src="https://imgur.com/a/fm5IrlI" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10"/>
 

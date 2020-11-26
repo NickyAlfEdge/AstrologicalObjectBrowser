@@ -8,6 +8,6 @@ The overall objectives of the module were to create a piece of software that cou
 
 - A comprehensive class diagram can be found here: 
 
-<img src="https://imgur.com/a/fm5IrlI" 
+<img src="https://i.imgur.com/2YFzg88.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10"/>
 

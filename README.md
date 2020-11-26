@@ -13,8 +13,11 @@ alt="AOB Class Diagram" width="240" height="180" border="10"/></p>
 
 - Additionally, a breakdown of the features and visual demonstration of the software can be witnessed below:
 
-<object data="https://nickyedge-cv.s3-eu-west-1.amazonaws.com/DisplayOfSoftware.pdf" width="700px" height="700px">
-    <embed src="https://nickyedge-cv.s3-eu-west-1.amazonaws.com/DisplayOfSoftware.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://nickyedge-cv.s3-eu-west-1.amazonaws.com/DisplayOfSoftware.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<p align="center"><img src="https://i.imgur.com/g1RQxni.png" 
+alt="AOB Image 1" width="240" height="180" border="10"/></p>
+
+<p align="center"><img src="https://i.imgur.com/LgKBYiw.png" 
+alt="AOB Image 2" width="240" height="180" border="10"/></p>
+
+<p align="center"><img src="https://i.imgur.com/ZBCQncE.png" 
+alt="AOB Image 3" width="240" height="180" border="10"/></p>
